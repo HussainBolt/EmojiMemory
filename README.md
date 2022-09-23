@@ -11,9 +11,14 @@ _TECH_
 
 I made this game using HTML, CSS, and JS
 
-![Screen Shot 2022-09-23 at 8 52 42 AM](https://user-images.githubusercontent.com/112985816/192008950-e06feea6-82b7-4be0-8e0f-9d3a2dee5307.png)
+![Screen Shot 2022-09-23 at 8 52 42 AM](https://user-images.githubusercontent.com/112985816/192009303-f2e91979-6464-419a-9587-c609bdc7d4d2.png)
 
 
 Cards stay flipped once matched
 
-![Screen Shot 2022-09-23 at 8 53 27 AM](https://user-images.githubusercontent.com/112985816/192008742-f245b503-7521-463e-bbf0-3fdd8b4618a2.png)
+![Screen Shot 2022-09-23 at 8 53 27 AM](https://user-images.githubusercontent.com/112985816/192009307-774f4cc5-5149-4ec9-9e6a-c2f072446b77.png)
+
+When you win it will display how many moves and seconds it took
+
+![Screen Shot 2022-09-23 at 9 35 37 AM](https://user-images.githubusercontent.com/112985816/192010022-7a35e281-aa78-49ee-8a5a-081fb40e3b55.png)
+
