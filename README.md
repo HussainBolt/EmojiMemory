@@ -11,3 +11,6 @@ _TECH_
 
 I made this game using HTML, CSS, and JS
 
+
+
+![Screen Shot 2022-09-23 at 8 53 27 AM](https://user-images.githubusercontent.com/112985816/192008742-f245b503-7521-463e-bbf0-3fdd8b4618a2.png)
