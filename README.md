@@ -11,6 +11,9 @@ _TECH_
 
 I made this game using HTML, CSS, and JS
 
+![Screen Shot 2022-09-23 at 8 52 42 AM](https://user-images.githubusercontent.com/112985816/192008950-e06feea6-82b7-4be0-8e0f-9d3a2dee5307.png)
 
+
+Cards stay flipped once matched
 
 ![Screen Shot 2022-09-23 at 8 53 27 AM](https://user-images.githubusercontent.com/112985816/192008742-f245b503-7521-463e-bbf0-3fdd8b4618a2.png)
