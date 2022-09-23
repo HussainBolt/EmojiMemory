@@ -1,6 +1,6 @@
 Unofficial Link https://hussainbolt.github.io/EmojiMemory/
 
-Memory - Emoji Version!
+**Memory - Emoji Version!**
 
 This is the game called memory which typically has 72 cards, but theres also a 36 card version which I used for less clutter.
 
@@ -22,3 +22,5 @@ When you win it will display how many moves and seconds it took
 
 ![Screen Shot 2022-09-23 at 9 35 37 AM](https://user-images.githubusercontent.com/112985816/192010022-7a35e281-aa78-49ee-8a5a-081fb40e3b55.png)
 
+_Future Updates_
+I'm planning on fixing the reset code and addinf some small styling details
