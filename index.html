@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Memory - &#128513 Emoji Edition &#128579</title>
+
+        <link rel="stylesheet" href="css/main.css" />
+        <script defer src="js/main.js"></script>
+    </head>
+
+    <body>
+        <div class="game">
+            <h1>Memory - &#128513 Emoji Edition &#128579</h1>
+            <div class="hud">
+                <button id='restart' type="button" onClick="window.location.reload(true)">&#x2672 Restart Game &#x2672</button>
+                <div class="stats" id="stats">
+                    <div class="num-moves" id="num-moves">0 moves</div>
+                    <div class="timer-count" id="timer-count">time: 0 second</div>
+                </div>
+            </div>
+            <div class="board-container" id="board-container">
+                <div class="board" id="board" data-dimension="6"></div>
+                <div class="win" id ="win">You won!</div>
+            </div>
+        </div>
+    </body>
+</html>
